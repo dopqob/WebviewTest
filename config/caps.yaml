@@ -1,0 +1,34 @@
+platformName: Android
+
+#模拟器
+#platformVersion: 5.1.1
+#deviceName: 127.0.0.1:62025
+
+# Vivo x9真机
+#platformVersion: 5.1
+#udid: 750BBKL22GDN
+deviceName: Vivo x9
+
+#appname: kaoyan3.1.0.apk
+
+# 是否清除APP数据,为True代表不清除
+noReset: True
+unicodeKeyboard: True
+resetKeyboard: True
+#recreateChromeDriverSessions: True
+disableAndroidWatchers: True
+
+# 微信
+appPackage: com.tencent.mm
+appActivity: ui.LauncherUI
+
+chromeOptions:
+  androidProcess: com.tencent.mm:tools
+
+# 企业微信
+appPackage_qywx: com.tencent.wework
+appActivity_qywx: .launch.LaunchSplashActivity
+
+chromeOptions_qywx:
+  androidProcess: com.tencent.wework
+
