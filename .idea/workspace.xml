@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57cf6c14-428e-4a38-a8f9-d25bedf96618" name="Default Changelist" comment="" />
+    <list default="true" id="57cf6c14-428e-4a38-a8f9-d25bedf96618" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/logs/runlog.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-22/2019-05-22 19_02_55_normal_activity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-22/2019-05-22 19_04_19_open_wechat_ccloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-22/2019-05-22 19_10_02_normal_activity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-22/2019-05-22 19_33_12_normal_activity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-22/2019-05-22 19_40_36_enter_user_center.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 08_56_31_cultivate_activity_supplement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 09_27_45_groupon_activity_supplement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 09_37_14_open_qywx_ccloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 09_40_41_groupon_activity_supplement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 09_42_06_groupon_activity_supplement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 09_51_26_groupon_activity_supplement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 09_54_16_groupon_activity_supplement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 11_04_14_new_customer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 11_37_01_customer_visit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 12_16_46_visit_audit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 15_23_20_free_refund.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 15_25_28_free_refund.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 15_29_10_order_refund.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 15_37_27_order_refund.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 15_40_52_order_refund.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 15_43_24_order_refund.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 15_45_04_order_refund.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 15_51_42_free_refund.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 16_37_10_single_output.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 16_39_30_single_output.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 17_09_32_add_product.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 17_10_12_add_product.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 17_12_45_add_product.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/2019-05-23/2019-05-23 17_31_40_return_home_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testreport/2019-05-21 20_13_42_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testreport/2019-05-22 09_13_39_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testreport/2019-05-23 16_55_04_report.html" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +71,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/WebviewTest" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -96,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="622" />
     <option name="y" value="586" />
     <option name="width" value="1036" />
@@ -123,11 +157,6 @@
             </path>
             <path>
               <item name="WebviewTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebviewTest" type="462c0819:PsiDirectoryNode" />
-              <item name="testsuite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebviewTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -137,6 +166,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -277,7 +307,7 @@
       <workItem from="1558317060302" duration="20176000" />
       <workItem from="1558400690786" duration="22481000" />
       <workItem from="1558486920248" duration="19112000" />
-      <workItem from="1558572297205" duration="26257000" />
+      <workItem from="1558572297205" duration="26647000" />
     </task>
     <servers />
   </component>
@@ -314,10 +344,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116143000" />
+    <option name="totallyTimeSpent" value="116533000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26502147" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -616,13 +647,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/runlog.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="408">
-          <caret line="475" lean-forward="true" selection-start-line="475" selection-end-line="475" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/operation/order.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -674,6 +698,13 @@
           <folding>
             <element signature="e#117#130#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/runlog.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="332">
+          <caret line="438" column="39" lean-forward="true" selection-end-line="475" />
         </state>
       </provider>
     </entry>
