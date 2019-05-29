@@ -31,7 +31,7 @@ class Refund(Common):
         small = self.find_elements(ORDER['小单位输入框'])  # 获取所有大单位输入框
         for k in range(kinds):
             sleep(1)
-            _i = random.randint(0, len(big)-1)
+            _i = random.randint(1, len(big)-1)
             big[_i].click()
             self.clear_and_sendkeys(ORDER['输入商品数量'], random.randint(0, 3))
             self.click(ORDER['确认输入'])
